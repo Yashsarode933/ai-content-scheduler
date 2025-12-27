@@ -113,7 +113,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=anon-key-here
 
 # Gemini API (use same key for both)
 GEMINI_API_KEY=your-gemini-key
-NEXT_PUBLIC_GEMINI_API_KEY=your-gemini-key
+NEXT_PUBLIC_GEMINI_API_KEY=public-your-gemini-key
 
 # App URL
 NEXT_PUBLIC_APP_URL=http://localhost:3000
