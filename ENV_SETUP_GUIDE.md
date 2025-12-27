@@ -109,11 +109,11 @@ Create a file named `.env.local` in the root of your project:
 ```env
 # Supabase Configuration
 NEXT_PUBLIC_SUPABASE_URL=https://abcdefghijklmnop.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFiY2RlZmdoaWprbG1ub3AiLCJyb2xlIjoiYW5vbiIsImlhdCI6MTYxNjIzOTAyMiwiZXhwIjoxOTMxODE1MDIyfQ.example-key-here
+NEXT_PUBLIC_SUPABASE_ANON_KEY=anon-key-here
 
 # Gemini API (use same key for both)
-GEMINI_API_KEY=AIzaSyExample1234567890abcdefghijklmnop
-NEXT_PUBLIC_GEMINI_API_KEY=AIzaSyExample1234567890abcdefghijklmnop
+GEMINI_API_KEY=your-gemini-key
+NEXT_PUBLIC_GEMINI_API_KEY=your-gemini-key
 
 # App URL
 NEXT_PUBLIC_APP_URL=http://localhost:3000
